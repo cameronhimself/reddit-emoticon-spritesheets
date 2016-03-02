@@ -60,5 +60,5 @@ And for a whole new generation:
 
 - Integrate with the twitchemotes.com API to always have the most up-to-date global emotes.
 - Could potentially use the twitchemotes.com API for sub emotes as well, using a whitelist, but because streamers can change their emotes at any time it could break existing posts with frustrating frequency. Would need to be carefully managed.
-- Split up the code a bit. A mess right now. Efficient-ish, because everything's handled in one loop over the coords object in the spritesmith callback, but a slopfest.
 - Implement non-stupid HTML generation. lodash template-based maybe--simple. anything's better than string concatenation.
+- Better (any) integration with reddit admin. automate via API?
