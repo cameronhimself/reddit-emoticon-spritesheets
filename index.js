@@ -19,10 +19,7 @@ Spritesmith.run({src: emotes}, function handleResult(err, result) {
     // fs.writeFileSync(path.join(__dirname, buildPath, 'coords.json'), JSON.stringify(result.coordinates));
     
     var cssJson = {};
-    var redditTxt = [
-        'Code|Emote',
-        '--:|:--'
-    ]
+    var redditTxt = ['Emote|Code', '--:|:--']
     var overallSelector = [];
     var html = ['<link rel="stylesheet" href="style.css" />'];
     html.push('<table>');
@@ -44,7 +41,7 @@ Spritesmith.run({src: emotes}, function handleResult(err, result) {
                 height: coords.height + 'px',
                 'background-position': (-coords.x) + 'px ' + (-coords.y) + 'px'
             }};
-            redditTxt.push(emoteName + '|' + '[](/' + emoteName + ')');
+            redditTxt.push('[](/' + emoteName + ')' + '|' + emoteName);
             html.push('<tr><td>' + emoteName + '</td><td><a href="/' + emoteName + '"></a></td></tr>');
         });
     }
