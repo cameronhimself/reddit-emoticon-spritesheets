@@ -1,0 +1,15 @@
+{
+  "name": "rkappa-style",
+  "version": "1.0.0",
+  "description": "A simple tool for generating the emote spritesheet and CSS used on the Kappa subreddit.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cssjson": "^2.1.3",
+    "spritesmith": "^3.1.0"
+  }
+}
