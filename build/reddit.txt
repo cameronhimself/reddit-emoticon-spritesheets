@@ -92,7 +92,7 @@ Emote|Code
 [](/GoUSA)|GoUSA
 [](/HYPE)|HYPE
 [](/Happa)|Happa
-[](/HardReads)|HardReads
+[](/HardRead)|HardRead
 [](/HassanChop)|HassanChop
 [](/HeyBots)|HeyBots
 [](/HeyGuys)|HeyGuys
