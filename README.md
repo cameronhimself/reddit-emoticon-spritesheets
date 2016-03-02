@@ -10,7 +10,7 @@ All you have to do is add emotes in png format to the `src/emotes` directory. Be
 ### `npm run build`
 This will create all of the relevant files in the `build` directory.
 
-- `sprite.png`: the efficiently-packed spritesheet.
+- `sprite1.png`, `sprite2.png`, ...: the efficiently-packed spritesheets.
 - `style.css`: the stylesheet.
 - `test.html`: a simple test page to make sure all of the emotes are working properly. Open it directly in a browser.
 - `reddit.txt`: copy and paste this into a reddit post to demonstrate how to use all of the emotes.
