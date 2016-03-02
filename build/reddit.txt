@@ -111,7 +111,6 @@ Emote|Code
 [](/KappaSagat)|KappaSagat
 [](/Kappanoko)|Kappanoko
 [](/KevinTurtle)|KevinTurtle
-[](/Klappa)|Klappa
 [](/KogChamp)|KogChamp
 [](/Kreygasm)|Kreygasm
 [](/LOLZ)|LOLZ
