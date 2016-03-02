@@ -171,7 +171,6 @@ Emote|Code
 [](/RosieTime)|RosieTime
 [](/RoxieTime)|RoxieTime
 [](/RuleFive)|RuleFive
-[](/SBstyle)|SBstyle
 [](/SCR)|SCR
 [](/SMOrc)|SMOrc
 [](/SMSkull)|SMSkull
@@ -182,7 +181,7 @@ Emote|Code
 [](/ServDoh)|ServDoh
 [](/ServLaugh)|ServLaugh
 [](/ServSmile)|ServSmile
-[](/ShaxBotstix)|ShaxBotstix
+[](/ShazBotstix)|ShazBotstix
 [](/SitDown)|SitDown
 [](/SlickBacon)|SlickBacon
 [](/SoBayed)|SoBayed
@@ -251,7 +250,7 @@ Emote|Code
 [](/fgtvSALTFORD)|fgtvSALTFORD
 [](/fgtvSTFUR)|fgtvSTFUR
 [](/ifcCurleh)|ifcCurleh
-[](/ifcHooks)|ifcHooks
+[](/ifcHOOKS)|ifcHOOKS
 [](/ifcMango)|ifcMango
 [](/ifcOH)|ifcOH
 [](/infilCreepy)|infilCreepy
