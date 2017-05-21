@@ -1,5 +1,5 @@
-# r/Kappa emotes
-This is a simple tool for generating the emote spritesheet and CSS used on the Kappa subreddit.
+# Emotes
+This is a simple tool for generating emote spritesheest and CSS for use on subreddits.
 
 ## Installation
 You must have [node and npm](https://docs.npmjs.com/getting-started/installing-node) installed. Once you do, clone or download this project and run `npm install` in the root dir.
