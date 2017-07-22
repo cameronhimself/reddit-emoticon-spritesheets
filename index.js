@@ -8,7 +8,7 @@ import rimraf from 'rimraf';
 Promise.promisifyAll(Spritesmith);
 
 const config = {
-    emotesPerSpritesheet: 150,
+    emotesPerSpritesheet: 140,
     buildPath: 'build',
     emotePath: 'src/emotes',
     aliases: require('./src/aliases.json')
